@@ -1,9 +1,4 @@
-open62541 on ESP32 (Sparkfun Thing)
+Implementation of https://open62541.org/doc/current/tutorial_client_firststeps.html 
+on ESP32 (Sparkfun Thing) by using;
 
-Reference:
-
-https://github.com/open62541/open62541.git
-
-and 
-
-https://github.com/Gfast2/open62541_port.git
+https://github.com/cabralfortiss/open62541/tree/feature/architectures
